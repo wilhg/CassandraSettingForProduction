@@ -25,8 +25,11 @@ Cassandra Configrure
 
 ---
 [Tuning Java resources](http://www.datastax.com/documentation/cassandra/2.0/cassandra/operations/ops_tune_jvm_c.html)
+
 [Monitoring a Cassandra cluster](http://www.datastax.com/documentation/cassandra/2.0/cassandra/operations/ops_monitoring_c.html)
+
 [Compression♂SSTable](http://www.datastax.com/documentation/cassandra/2.0/cassandra/operations/ops_config_compress_t.html)
+
 [Data caching](http://www.datastax.com/documentation/cassandra/2.0/cassandra/operations/opsDataCachingTOC.html)
 
 #####Tips for efficient cache use
